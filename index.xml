@@ -34,6 +34,19 @@
     </item>
     
     <item>
+      <title>Automation and Job disruption</title>
+      <link>http://localhost:1313/project/ai-and-job-disruption/projects/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/ai-and-job-disruption/projects/</guid>
+      <description>&lt;p&gt;The rise of automation and artificial intelligence has sparked concerns
+about job displacement. Routine tasks are increasingly being automated,
+leading to a restructuring of the labor marker. However, the disruption
+also presents opportunities for innovation, creativity and the creation of
+new types of jobs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Markdown Markup Language</title>
       <link>http://localhost:1313/post/markdown/markdown/</link>
       <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
@@ -63,14 +76,6 @@ Versatile: Supports tables, code blocks, and embedded HTML.&lt;/p&gt;
 &lt;p&gt;No native support for complex layouts (e.g., multi-column text).
 Syntax varies slightly across implementations (CommonMark vs. GitHub Flavored Markdown).&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -310,7 +315,7 @@ Syntax varies slightly across implementations (CommonMark vs. GitHub Flavored Ma
 
 
 
-&lt;div id=&#34;chart-874351692&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-285319647&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -328,7 +333,7 @@ Syntax varies slightly across implementations (CommonMark vs. GitHub Flavored Ma
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-874351692&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-285319647&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

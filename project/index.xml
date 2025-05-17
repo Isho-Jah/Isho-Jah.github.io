@@ -5,12 +5,25 @@
     <link>http://localhost:1313/project/</link>
       <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
       <link>http://localhost:1313/project/</link>
     </image>
+    
+    <item>
+      <title>Automation and Job disruption</title>
+      <link>http://localhost:1313/project/ai-and-job-disruption/projects/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/ai-and-job-disruption/projects/</guid>
+      <description>&lt;p&gt;The rise of automation and artificial intelligence has sparked concerns
+about job displacement. Routine tasks are increasingly being automated,
+leading to a restructuring of the labor marker. However, the disruption
+also presents opportunities for innovation, creativity and the creation of
+new types of jobs.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Pandas</title>
